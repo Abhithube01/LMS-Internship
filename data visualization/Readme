@@ -1,0 +1,44 @@
+# Iris Dataset Visualization
+
+This project provides various visualizations of the Iris dataset using Python libraries such as Seaborn and Matplotlib.
+
+![Scatter Plot](scatter_plot.png)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Visualizations](#visualizations)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The Iris dataset is a classic dataset for data visualization and machine learning. This project explores the dataset using various plots to visualize the relationships between different features.
+
+## Dataset
+
+The Iris dataset consists of 150 samples from each of three species of Iris flowers (`Iris setosa`, `Iris versicolor`, and `Iris virginica`). Four features were measured from each sample: the lengths and the widths of the sepals and petals.
+
+**Source**: The dataset is loaded directly from the Seaborn library.
+
+## Requirements
+
+The following Python libraries are required:
+
+- `pandas`
+- `matplotlib`
+- `seaborn`
+
+## Installation
+
+### Clone the Repository
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/iris-visualization.git
+cd iris-visualization
